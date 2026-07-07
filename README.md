@@ -1,5 +1,4 @@
 # Digital-Marketing-Agency-AI-Automation
-<img width="8192" height="5136" alt="User Activity and-2026-07-07-202152" src="https://github.com/user-attachments/assets/af1e9a55-da6d-44b6-8f55-4bb34e7b435d" />
 
 เครื่องมือ AI ที่ช่วยเอเจนซี่การตลาดค้นหา TikTok/YouTube influencer (KOL) ไทยที่เหมาะกับแบรนด์
 วิเคราะห์ความเสี่ยง ประมาณการผลลัพธ์ ก่อนตัดสินใจจ้างจริง — แค่วางลิงก์เว็บไซต์ลูกค้า ก็ได้ลิสต์ผู้สมัคร
