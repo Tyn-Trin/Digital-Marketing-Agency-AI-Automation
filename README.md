@@ -43,8 +43,8 @@
 | AI วิเคราะห์แบรนด์/ความเสี่ยง | Claude API (Anthropic) |
 | ข้อมูล TikTok | Apify (TikTok Scraper actor) |
 | ข้อมูล YouTube | YouTube Data API v3 |
-| ดึงข้อความเว็บไซต์ | trafilatura + BeautifulSoup |
-| Deployment | Docker + docker-compose |
+
+
 
 
 ## ฟีเจอร์เด่น
