@@ -36,14 +36,16 @@
 
 ## เทคโนโลยีที่ใช้
 
-| ส่วน | เทคโนโลยี | 
+| ส่วน | เทคโนโลยี |
+|---|---|
 | Backend | Python + FastAPI |
-| Frontend | HTML/CSS/JS ล้วน | 
-| AI วิเคราะห์แบรนด์/ความเสี่ยง | Claude API (Anthropic) | 
-| ข้อมูล TikTok | Apify (TikTok Scraper actor) | 
-| ข้อมูล YouTube | YouTube Data API v3 | 
-| ดึงข้อความเว็บไซต์ | trafilatura + BeautifulSoup | 
-| Deployment | Docker + docker-compose | 
+| Frontend | HTML/CSS/JS ล้วน |
+| AI วิเคราะห์แบรนด์/ความเสี่ยง | Claude API (Anthropic) |
+| ข้อมูล TikTok | Apify (TikTok Scraper actor) |
+| ข้อมูล YouTube | YouTube Data API v3 |
+| ดึงข้อความเว็บไซต์ | trafilatura + BeautifulSoup |
+| Deployment | Docker + docker-compose |
+
 
 ## ฟีเจอร์เด่น
 
