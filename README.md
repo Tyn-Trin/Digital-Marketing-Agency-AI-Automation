@@ -3,9 +3,10 @@
 เครื่องมือ AI ที่ช่วยเอเจนซี่การตลาดค้นหา TikTok/YouTube influencer (KOL) ไทยที่เหมาะกับแบรนด์
 วิเคราะห์ความเสี่ยง ประมาณการผลลัพธ์ ก่อนตัดสินใจจ้างจริง — แค่วางลิงก์เว็บไซต์ลูกค้า ก็ได้ลิสต์ผู้สมัคร
 พร้อมคะแนนภายในไม่กี่นาที
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/f6cbd64f-4b38-4a24-a057-d50301a3e51f" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/453dc9fe-6a62-42d7-b0af-289ddae402d0" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/6567d184-1f56-4264-93a1-7380f16dd3df" />
 
-<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/f83a7b45-bcee-4d62-a7ab-e0924c1bf1d9" />
-<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/8b277676-c508-4722-b042-8f73b863792b" />
 
 
 ## ปัญหา
